@@ -1,0 +1,21 @@
+/* Element selector */
+p {
+    color: blue;
+}
+
+/* ID selector */
+#heading {
+    color: green;
+}
+
+/* Class selector */
+.highlight {
+    background-color: yellow;
+    padding: 10px;
+}
+
+/* Pseudo selector */
+button:hover {
+    background-color: orange;
+    cursor: pointer;
+}
